@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ghoshsauradip" target="blank"><img src="https://img.shields.io/twitter/follow/@ghoshsauradip?logo=twitter&style=for-the-badge" alt="@ghoshsauradip" /></a> </p>
 
-- 🌱**I’m a 1st-year student pursuing a Bachelors’s in Computer science studies , from Asansol Engineering collage, web developer. **
+- 🌱**I’m a 1st-year student pursuing a Bachelors’s in Computer science studies , from Asansol Engineering college, web developer. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
