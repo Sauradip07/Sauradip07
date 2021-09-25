@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sauradip Ghsodh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...")
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauradip07&label=Profile%20views&color=0e75b6&style=flat" alt="sauradip07" /> </p>
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ghoshsauradip" target="blank"><img src="https://img.shields.io/twitter/follow/@ghoshsauradip?logo=twitter&style=for-the-badge" alt="@ghoshsauradip" /></a> </p>
 
-- 🌱 I’m currently learning **programming**
+- 🌱**I’m a 1st-year student pursuing a Bachelors’s in Computer science studies , from Asansol Engineering collage, web developer. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
