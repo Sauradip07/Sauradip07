@@ -2,9 +2,11 @@
 <p><img align="centre" alt="coding" width="600"src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></p>
 </pre>
 
-<h1 align="left">Hi 👋, I'm Sauradip Ghosh</h1>
+<h1 align="left">Hey!👋, I'm Sauradip Ghosh</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 <p align="left"> <a href="https://twitter.com/@ghoshsauradip" target="blank"><img src="https://img.shields.io/twitter/follow/@ghoshsauradip?logo=twitter&style=for-the-badge" alt="@ghoshsauradip" /></a> </p>
+   I'm a computer science enginner who is possionate about making open-source more accessible. Some technologies I enjoy working with 
+   include c++ , javascript + APIs and Node.js. You also find me on Twittter and Linked in.
 
 - 🌱 I’m currently learning Programming stuffs.
 
