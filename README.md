@@ -12,8 +12,6 @@
 
 - 🤝Looking to Contribute Open Source [project](project)
 
-- 📫 Reach me **sauradip96ghosh@gmail.com**
-
 - 📄 Know about my experiences [Freshers](Freshers)
 
 - ⚡ Fun Fact **I love to draw and play pc Games**
