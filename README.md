@@ -1,7 +1,3 @@
-<pre>
-<p><img align="centre" alt="coding" width="600"src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"></p>
-</pre>
-
 <h1 align="left">Hey!👋, I'm Sauradip Ghosh</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
