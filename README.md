@@ -1,7 +1,7 @@
 <h1 align="left">Hey!👋, I'm Sauradip Ghosh</h1>
 
    I'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with 
-   include C++ , HTML , CSS.
+   include C++ , HTML , CSS. You also find me on Twitter and Linked in.
 
 - 🌱 I’m currently learning Programming stuffs
 
