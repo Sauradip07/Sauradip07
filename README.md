@@ -4,7 +4,7 @@
    I'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with 
    include C++ , HTML , CSS.
 
-- 🌱 I’m currently learning Programming stuffs
+- 🌱 I’m currently learning Data Structures and Algorithms 
 
 - 🤝Looking to Contribute Open Source Project
 
