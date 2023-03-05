@@ -1,14 +1,9 @@
 <img src = "https://raw.githubusercontent.com/Yash621/Yash621/master/images/github-banner.png">
 <h1 align="left">Hey!👋, I'm Sauradip Ghosh</h1>
 
-   I'm a computer science engineer who is passionate about making open-source more accessible. Some technologies I enjoy working with 
-   include C++ , HTML , CSS.
+   I'm a computer science engineer who is passionate about making open-source more accessible.
 
-- 🌱 I’m currently learning Data Structures and Algorithms 
-
-- 🤝Looking to Contribute Open Source Project
-
-- 📄 Know about my experiences Freshers
+- 🤝 Looking to Contribute Open Source Project
 
 - ⚡ Fun Fact **I love to draw and play pc Games**
 
