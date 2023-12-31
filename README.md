@@ -1,12 +1,6 @@
 <img src = "https://raw.githubusercontent.com/Yash621/Yash621/master/images/github-banner.png">
 <h1 align="left">Hey!👋, I'm Sauradip Ghosh</h1>
 
-   I'm a computer science engineer who is passionate about making open-source more accessible.
-
-- 🤝 Looking to Contribute Open Source Project
-
-- ⚡ Fun Fact **I love to draw and play pc Games**
-
 <h3 align="left">Connect with me: 🤝 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/sauradip-ghosh-726742222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sauradip-ghosh-726742222" height="30" width="40" /></a>
