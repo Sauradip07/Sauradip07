@@ -1,4 +1,3 @@
-<img src = "https://raw.githubusercontent.com/Yash621/Yash621/master/images/github-banner.png">
 <h1 align="left">Hey!👋, I'm Sauradip Ghosh</h1>
 
 <h3 align="left">Connect with me: 🤝 </h3>
