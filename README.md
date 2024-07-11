@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/sauradip.tatai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sauradip ghosh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sauradip_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sauradip_07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sauradipghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
-  <a href="https://www.naukri.com/code360/profile/Sauradip_Ghosh" target="blank"><img align="center" src="https://scontent-pnq1-2.xx.fbcdn.net/v/t39.30808-6/371857833_702154681949841_4210409194251771608_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2p67Vdt_ODwQ7kNvgHOdQPV&_nc_ht=scontent-pnq1-2.xx&oh=00_AYAGuXV0UUM8wWuZ74J8vJ9kfxfpifiV-XDae0P0dfsO3A&oe=66958733" alt="Coding Ninjas" height="50" width="50" /></a>
+  <a href="https://www.naukri.com/code360/profile/Sauradip_Ghosh" target="blank"><img align="center" src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code360" height="50" width="50" /></a>
 </p>
 </p>
 
